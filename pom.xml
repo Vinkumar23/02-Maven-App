@@ -14,5 +14,9 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+	<dependency>
+      <groupId>springframework</groupId>
+      <artifactId>juniper</artifactId>
+      <version>5.2.22.RELEASE</version>
   </dependencies>
 </project>
